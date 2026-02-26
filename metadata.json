@@ -1,0 +1,5 @@
+{
+  "name": "Smart Rural Water Dashboard",
+  "description": "A comprehensive IoT simulation for LPCD-based rural water distribution with leak detection and automated pump control.",
+  "requestFramePermissions": []
+}
